@@ -1,0 +1,7 @@
+Hau ve,15,Le Van Ha,Ha Noi,2004
+Tien ve,12,Nguyen Xuan Bac,PVF-CAND,2003
+Tien ve,14,Viktor Le,Ha Tinh,2003
+Tien ve,21,Pham Minh Phuc,CAHN,2004
+Tien dao,19,Nguyen Ngoc My,Thanh Hoa,2004
+Tien dao,22,Nguyen Thanh Nhan,PVF-CAND,2003
+Tien dao,2,Nguyen Le Phat,PVF-CAND,2007
