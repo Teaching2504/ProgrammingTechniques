@@ -1,0 +1,13 @@
+﻿  Lab04_BTH3.cpp
+  Lab04_BTH4.cpp
+C:\Users\MY PC\Desktop\ProgrammingTechniques\Labs\1.BTH1_02.03.2026_\Lab01_Project\Lab01_Project\Lab04_BTH4.cpp(90,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Lab04_BTThem1.cpp
+C:\Users\MY PC\Desktop\ProgrammingTechniques\Labs\1.BTH1_02.03.2026_\Lab01_Project\Lab01_Project\Lab04_BTThem1.cpp(40,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Lab04_BTThem2.cpp
+C:\Users\MY PC\Desktop\ProgrammingTechniques\Labs\1.BTH1_02.03.2026_\Lab01_Project\Lab01_Project\Lab04_BTThem2.cpp(56,2): error C2660: 'diemCaoNhatTungMon': function does not take 3 arguments
+      C:\Users\MY PC\Desktop\ProgrammingTechniques\Labs\1.BTH1_02.03.2026_\Lab01_Project\Lab01_Project\Lab04_BTThem2.cpp(7,6):
+      see declaration of 'diemCaoNhatTungMon'
+      C:\Users\MY PC\Desktop\ProgrammingTechniques\Labs\1.BTH1_02.03.2026_\Lab01_Project\Lab01_Project\Lab04_BTThem2.cpp(56,2):
+      while trying to match the argument list '(double [100][100], int, int)'
+  
+  Generating Code...
