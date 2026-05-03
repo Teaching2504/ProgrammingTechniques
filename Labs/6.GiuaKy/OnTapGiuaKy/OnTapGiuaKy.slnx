@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="OnTapGiuaKy/OnTapGiuaKy.vcxproj" Id="a8786b22-e118-4cbd-bb80-ca69982dfa66" />
+</Solution>
